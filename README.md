@@ -114,6 +114,7 @@ This project demonstrates:
 
 ---
 ## Streamlit App Screenshot
+![img alt](https://github.com/anoopbhagat1308/AI-Resume-Builder-App/blob/7a0dd68686c9ef3c6b8f9db9ac57292956ed2a6d/ai_resume_builder_screenshot.png)
 
 ## 👨‍💻 Author
 
